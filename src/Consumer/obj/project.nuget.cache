@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u2BdxIYe1+0u9f/22pEJoUnO3YV+t9DGtmR0rCKw33Teepx1tUufQk92qJ2Mp34BXxvBcej3xG+XrcSzI0AB3w==",
+  "success": true,
+  "projectFilePath": "C:\\Mateus\\Repository\\kafka-cluster\\src\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateus.junho\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\mateus.junho\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\mateus.junho\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
