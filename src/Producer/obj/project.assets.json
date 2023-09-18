@@ -244,11 +244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mateus\\Repository\\kafka-cluster\\src\\Producer\\Producer.csproj",
+      "projectUniqueName": "c:\\Mateus\\Repository\\kafka-cluster\\src\\Producer\\Producer.csproj",
       "projectName": "Producer",
-      "projectPath": "C:\\Mateus\\Repository\\kafka-cluster\\src\\Producer\\Producer.csproj",
+      "projectPath": "c:\\Mateus\\Repository\\kafka-cluster\\src\\Producer\\Producer.csproj",
       "packagesPath": "C:\\Users\\mateus.junho\\.nuget\\packages\\",
-      "outputPath": "C:\\Mateus\\Repository\\kafka-cluster\\src\\Producer\\obj\\",
+      "outputPath": "c:\\Mateus\\Repository\\kafka-cluster\\src\\Producer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mateus.junho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -300,7 +300,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }

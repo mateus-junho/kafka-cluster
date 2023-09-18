@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u2BdxIYe1+0u9f/22pEJoUnO3YV+t9DGtmR0rCKw33Teepx1tUufQk92qJ2Mp34BXxvBcej3xG+XrcSzI0AB3w==",
+  "dgSpecHash": "Q5brlxH9L0RjXOyl0WcA14EUACq8wSqmZCai7yppt3jRoydhWa6vVBl7BPw+Cv3S8H8b/THvQAFwIYtc3xCzsg==",
   "success": true,
   "projectFilePath": "C:\\Mateus\\Repository\\kafka-cluster\\src\\Consumer\\Consumer.csproj",
   "expectedPackageFiles": [
