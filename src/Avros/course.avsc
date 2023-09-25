@@ -1,0 +1,9 @@
+{
+    "namespace": "avrodef",
+    "type": "record",
+    "name": "course",
+    "fields": [
+        { "name": "id", "type": "string" },
+        { "name": "description", "type": "string" }
+    ]
+}
